@@ -6,7 +6,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-# //=========================================
+# //======================================
 
 # {G}
 # {gurraoptimus.se}
@@ -15,7 +15,7 @@
  
 ## Copyright © gurraoptimus.se 2022. All rights reserved
 
-# //=========================================
+# //======================================
 
 
 ## License
