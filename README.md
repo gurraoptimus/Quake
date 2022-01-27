@@ -1,24 +1,24 @@
 
 # Quake
-## _this is html5 game_
+### _this is html5 game_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-## //====================================
+### //====================================
 
-## {G}
-## {gurraoptimus.se}
-## Quake.
-## this is html5 game. 
+## //{G}
+## //{gurraoptimus.se/dev}
+## //Quake.
+## //this is html5 game. 
  
-### Copyright © gurraoptimus.se 2022. All rights reserved
+### //Copyright © gurraoptimus.se 2022. All rights reserved
 
-## //====================================
+### //====================================
 
 
-## License
+# License
 
 MIT
 
