@@ -6,16 +6,16 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-# //====================================
+## //====================================
 
-# {G}
-# {gurraoptimus.se}
-# Quake.
-# this is html5 game. 
+## {G}
+## {gurraoptimus.se}
+## Quake.
+## this is html5 game. 
  
-## Copyright © gurraoptimus.se 2022. All rights reserved
+### Copyright © gurraoptimus.se 2022. All rights reserved
 
-# //====================================
+## //====================================
 
 
 ## License
